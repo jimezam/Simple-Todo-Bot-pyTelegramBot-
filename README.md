@@ -58,6 +58,8 @@ $ nodemon --exec python3 bot.py
 
 El bot soporta los siguientes comandos y órdenes.
 
+| Órden | Descripción |
+| --- | --- |
 | `/start` | Inicia correctamente la sesión del usuario |
 | `/help` | Este mensaje de ayuda |
 | `/about` | Información acerca del desarrollador |
