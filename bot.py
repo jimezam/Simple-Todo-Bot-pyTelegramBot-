@@ -249,9 +249,6 @@ def add_todo(user_id, task, priority=0):
 	:param priority: Priority of the new task to do
 	:type priority: int
 	"""    
-	print(user_id.__class__.__name__)	
-	print(task.__class__.__name__)	
-	print(priority.__class__.__name__)	
 	data = {
 		"task": task,
 		"priority": priority
